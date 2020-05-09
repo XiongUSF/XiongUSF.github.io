@@ -1,4 +1,15 @@
 
+
+---
+
+category: work
+published: true
+layout: post
+title: HELLO,world Ruoke Liu 
+description: OCR && Content Masking
+
+---
+
 <style type="text/css">
 @font-face { 
 font-family: 'fontNameRegular'; 
@@ -23,17 +34,6 @@ src:local('fontName Regular'),
 #ads{font-family:'fontNameRegular';font-size:40px;font-weight:bold;}
 #ads2{font-size:40px;font-weight:bold;}
 </style>
-
----
-
-category: work
-published: true
-layout: post
-title: <div id="adsmirage"> HELLO,world Ruoke Liu </div>
-description: OCR && Content Masking
-
----
-
 
 <div id="adsmirage"> Test </div>
 

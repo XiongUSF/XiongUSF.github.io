@@ -15,6 +15,14 @@
 
 
 
+
+
+
+</div>
+
+
+
+
 ## Authors: 
 Ian Markwood, Dakun Shen, Yao Liu, and Zhuo Lu, University of South Florida
 
@@ -23,14 +31,6 @@ We present a new class of content masking attacks against the Adobe PDF standard
 
 ## Open Access Media
 USENIX is committed to Open Access to the research presented at our events. Papers and proceedings are freely available to everyone once the event begins. Any video, audio, and/or slides that are posted after the event are also free and open to everyone. Support USENIX and our commitment to Open Access.
-
-
-
-
-</div>
-
-
-
 
 
 

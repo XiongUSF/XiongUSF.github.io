@@ -1,11 +1,15 @@
 <title>
     Flight
 </title> 
- <h1 class="entry-title"> 
+
+<div>
+<h1 class="entry-title"> 
 <span id="DDmirage">F</span><span id="emirage">l</span><span id="tmirage">i</span><span id="emirage">g</span><span id="cmirage">h</span><span id="tmirage">t</span><span id="imirage"> </span><span id="nmirage">s</span><span id="gmirage">u</span><span id="emptymirage">mmerise</span>
-    </h1>
-    <p class="entry-date">05/09/2020</p>
-	
+</h1>
+<p class="entry-date">05/09/2020</p>
+</div>
+
+
 ## Background
 
 **The air traffic flow management problem with enroute capacities**

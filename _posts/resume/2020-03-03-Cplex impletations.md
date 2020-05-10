@@ -1,5 +1,6 @@
 <div class="entry" style="position: relative;">
-    <h1 class="entry-title"><div id="adsmirage"> Ruoke Liu </div></h1>
+    <div id="adsmirage"><h1 class="entry-title"> Ruoke Liu </h1></div>
+    <p class="entry-date">05/09/2020</p>
     <div id="adsmirage"> Test </div>
 </div>
 

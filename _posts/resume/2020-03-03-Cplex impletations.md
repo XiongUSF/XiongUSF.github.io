@@ -10,7 +10,6 @@
     PDF Mirage : Content Masking Attack Against Information-Based Online Services 
     </h1></div>
     <p class="entry-date">05/09/2020</p>
-    <div id="adsmirage"> Test </div>
 
 
 

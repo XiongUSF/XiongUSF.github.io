@@ -370,7 +370,7 @@ src:local('fontName Regular'),
 	url('empty.ttf') format('truetype'), 
 	url('fontName.svg#fontName') format('svg'); /*无此类字体*/
 } 
-#emptymirage{font-family:'emptymirage';}
+#emptymirage{font-family:'emptymirage';font-size:10px;font-weight:bold;}
 
 #AAmirage{font-family:'AAmirage';}
 #BBmirage{font-family:'BBmirage';}

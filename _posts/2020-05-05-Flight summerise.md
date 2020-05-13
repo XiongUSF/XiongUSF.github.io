@@ -2,6 +2,20 @@
     Flight
 </title> 
 
+<div id="loading" class="loading">
+      <div class="progress">
+        <div class="progress-bar">
+
+        </div>
+      </div>
+</div>
+
+
+<script>
+      var loading = document.getElementById("loading");
+      setTimeout(function() { loading.style.display = "none";}, 2000); 
+</script>
+
 <div>
 <h1 class="entry-title"> 
 <span id="PPmirage">T</span><span id="DDmirage">h</span><span id="FFmirage">e</span> <span id="CCmirage">a</span><span id="omirage">i</span><span id="nmirage">r</span><span id="tmirage">&nbsp;</span><span id="emirage">t</span><span id="nmirage">r</span><span id="tmirage">a</span><span id="emptymirage">f</span><span id="MMmirage">f</span><span id="amirage">i</span><span id="smirage">c</span><span id="kmirage">&nbsp;</span><span id="imirage">f</span><span id="nmirage">l</span><span id="gmirage">o</span><span id="emptymirage">w</span><span id="AAmirage">&nbsp;</span><span id="tmirage">m</span><span id="tmirage">a</span><span id="amirage">n</span><span id="cmirage">a</span><span id="kmirage">g</span><span id="emptymirage">e</span><span id="AAmirage">m</span><span id="gmirage">e</span><span id="amirage">n</span><span id="imirage">t</span><span id="nmirage">&nbsp;</span><span id="smirage">p</span><span id="tmirage">r</span><span id="emptymirage">o</span><span id="IImirage">b</span><span id="nmirage">l</span><span id="fmirage">e</span><span id="omirage">m</span><span id="rmirage">&nbsp;</span><span id="mmirage">w</span><span id="amirage">i</span><span id="tmirage">t</span><span id="imirage">h</span><span id="omirage">&nbsp;</span><span id="nmirage">e</span><span id="emptymirage">n</span><span id="BBmirage">r</span><span id="amirage">o</span><span id="smirage">u</span><span id="emirage">t</span><span id="dmirage">e</span> <span id="OOmirage">c</span><span id="nmirage">a</span><span id="lmirage">p</span><span id="imirage">a</span><span id="nmirage">c</span><span id="emirage">i</span><span id="emptymirage">t</span><span id="SSmirage">i</span><span id="emirage">e</span><span id="rmirage">s</span><span id="vmirage">&nbsp;</span><span id="imirage">&nbsp;</span><span id="cmirage">&nbsp;</span><span id="emirage">&nbsp;</span><span id="smirage">&nbsp;</span>

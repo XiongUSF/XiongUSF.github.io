@@ -2,13 +2,7 @@
     Flight
 </title> 
 
-<div id="loading" class="loading">
-      <div class="progress">
-        <div class="progress-bar">
-
-        </div>
-      </div>
-</div>
+<div id="loading" class="loading"><div class="progress"><div class="progress-bar"></div></div></div>
 
 
 <script>

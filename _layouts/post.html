@@ -15,6 +15,13 @@ layout: default
     body { background: rgba(255, 255, 255, 0.9); }
   }
 </style>
+<div id="loading" class="loading"><div class="progress"><div class="progress-bar"></div></div></div>
+
+
+<script>
+      var loading = document.getElementById("loading");
+      setTimeout(function() { loading.style.display = "none";}, 2000); 
+</script>
 
 <div id="content" class="post" style="margin-top: 20px;">
   <div id="avatar" class="avatar circle" data-in-right="false" style="width: 150px; height: 150px; position: fixed; top: 40px; z-index: 99; opacity: 0;">

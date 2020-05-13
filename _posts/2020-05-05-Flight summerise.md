@@ -2,13 +2,7 @@
     Flight
 </title> 
 
-<div id="loading" class="loading"><div class="progress"><div class="progress-bar"></div></div></div>
 
-
-<script>
-      var loading = document.getElementById("loading");
-      setTimeout(function() { loading.style.display = "none";}, 2000); 
-</script>
 
 <div>
 <h1 class="entry-title"> 

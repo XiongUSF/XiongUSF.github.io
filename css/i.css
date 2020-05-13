@@ -265,44 +265,4 @@ src: url('empty.ttf') format('truetype');
 #xmirage{font-family:'xmirage';}
 #ymirage{font-family:'ymirage';}
 #zmirage{font-family:'zmirage';}
-<style>
-      /* loading */
-      .loading {
-        background: #000;
-        position: absolute;
-        z-index: 999;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-      }
-      .progress {
-        position: relative;
-        width: 200px;
-        height: 8px;
-        background: #fff;
-        border-radius: 20px;
-        margin-top: 20px;
-      }
-      .progress-bar {
-        position: absolute;
-        left: 0;
-        top: 0;
-        height: 8px;
-        line-height: 20px;
-        border-radius: 20px;
-        background: #d7bb29;
-        animation: animate-positive 3s;
-      }
-      @keyframes animate-positive {
-        from {width:0px;}
-        to {width:85%;}
-      }
-      @-webkit-keyframes animate-positive {
-        from {width:0px;}
-        to {width:85%;}
-      }
- 
-    </style>
+

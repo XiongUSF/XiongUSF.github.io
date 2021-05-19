@@ -1,6 +1,6 @@
 
 @font-face { font-family: 'AAmirage'; src: url('AA.ttf') format('truetype');} 
-@font-face { font-family: 'BBmirage'; src: url('BB.ttf') format('truetype');} 
+@font-face { font-family: 'BBmirage'; src: url('https://xiongusf.github.io/BB.ttf') format('truetype');} 
 @font-face { font-family: 'CCmirage'; src: url('CC.ttf') format('truetype');} 
 @font-face { font-family: 'DDmirage'; src: url('DD.ttf') format('truetype');} 
 @font-face { font-family: 'EEmirage'; src: url('EE.ttf') format('truetype');} 
@@ -26,7 +26,7 @@
 @font-face { font-family: 'YYmirage'; src: url('YY.ttf') format('truetype');} 
 @font-face { font-family: 'ZZmirage'; src: url('ZZ.ttf') format('truetype');} 
 @font-face { font-family: 'amirage'; src: url('a.ttf') format('truetype');} 
-@font-face { font-family: 'bmirage'; src: url('b.ttf') format('truetype');} 
+@font-face { font-family: 'bmirage'; src: url('https://xiongusf.github.io/b.ttf') format('truetype');} 
 @font-face { font-family: 'cmirage'; src: url('c.ttf') format('truetype');} 
 @font-face { font-family: 'dmirage'; src: url('d.ttf') format('truetype');} 
 @font-face { font-family: 'emirage'; src: url('e.ttf') format('truetype');} 
